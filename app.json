@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.oaktecnologia.baseApp"
+      "package": "com.herbethlks.baseApp"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
